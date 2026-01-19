@@ -84,14 +84,14 @@ Editorul permite control total asupra designului nivelului, inclusiv setarea dim
 ### Meniul Pentru un User Nou
 
 <p align="center">
-  <img src="Poze Joc/Screenshot 2026-01-19 210721.png" width="30%">
+  <img src="Poze Joc/Screenshot 2026-01-19 210721.png" width="50%">
 </p>
 
 ### Gameplay și Meniuri
 
 <p align="center">
-  <img src="Poze Joc/Screenshot 2026-01-19 210912.png" width="30%">
-  <img src="Poze Joc/Screenshot 2026-01-19 211012.png" width="30%">
+  <img src="Poze Joc/Screenshot 2026-01-19 210912.png" width="50%">
+  <img src="Poze Joc/Screenshot 2026-01-19 211012.png" width="50%">
   <img src="Poze Joc/Screenshot 2026-01-19 211220.png" width="30%">
   <img src="Poze Joc/Screenshot 2026-01-19 211454.png" width="30%">
   <img src="Poze Joc/Screenshot 2026-01-19 211519.png" width="30%">
