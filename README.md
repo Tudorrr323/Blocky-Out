@@ -76,9 +76,9 @@ Blocky OUT/
 Editorul permite control total asupra designului nivelului, inclusiv setarea dimensiunilor și restricțiilor de mișcare.
 
 <p align="center">
-  <img src="Poze Joc/Screenshot 2026-01-19 211308.png" width="50%">
-  <img src="Poze Joc/Screenshot 2026-01-19 211321.png" width="50%">
-  <img src="Poze Joc/Screenshot 2026-01-19 210732.png" width="50%">
+  <img src="Poze Joc/Screenshot 2026-01-19 211308.png" width="40%">
+  <img src="Poze Joc/Screenshot 2026-01-19 211321.png" width="40%">
+  <img src="Poze Joc/Screenshot 2026-01-19 210732.png" width="40%">
 </p>
 
 ### Meniul Pentru un User Nou
