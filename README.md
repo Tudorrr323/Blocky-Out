@@ -1,6 +1,6 @@
 # Blocky OUT
 
-**Blocky OUT** este un joc de logică și strategie dezvoltat în **Java**, inspirat din popularul joc de browser [Blocky Out](https://poki.com/ro/g/blocky-out). Obiectivul principal este de a manevra blocurile colorate pentru a elibera calea și a scoate blocul special prin poartă.
+**Blocky OUT** este un joc de logică și strategie dezvoltat în **Java**, inspirat din popularul joc de browser <a href="https://poki.com/ro/g/blocky-out" target="_blank">Blocky Out</a>. Obiectivul principal este de a manevra blocurile colorate pentru a elibera calea și a scoate blocul special prin poartă.
 
 ## Galerie
 
